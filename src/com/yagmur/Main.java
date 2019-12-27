@@ -28,7 +28,6 @@ public class Main {
         Queue<Integer> queue_second = queueGenerator(int_of_files_second);
         System.out.println("... added into queue!");
 
-
         long start = System.currentTimeMillis();
         computePairwise(linkedList_first, linkedList_second);
         long end = System.currentTimeMillis();
@@ -72,6 +71,7 @@ public class Main {
 
         BufferedReader in;
         Queue<Integer> queue = new LinkedList<>();
+
         try {
             in = new BufferedReader(new FileReader(file));
             String read;
