@@ -17,6 +17,16 @@ Compare the time spent for two data structures "
 - Prints spent time for two data structures while calculating pairwise product. 
 
 
+## Visulation of Data Structures 
+
+
+ ### Linked List
+ <a href="https://imgbb.com/"><img src="https://www.programmingsimplified.com/images/c/linked-list.png" alt="projectalgorithmpdf" border="0"></a>
+ 
+ ### Queue 
+ 
+  <a href="https://imgbb.com/"><img src="https://msatechnosoft.in/blog/wp-content/uploads/2018/10/Queue-MSA-Technosoft.jpg" alt="projectalgorithmpdf" border="0"></a>
+
 ## Expected Output 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yFjz6Fh/projectalgorithmpdf.png" alt="projectalgorithmpdf" border="0"></a>
